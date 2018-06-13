@@ -1,0 +1,6 @@
+@echo off
+break>geek.txt
+rem "@echo off" turn off the prefix
+echo Hello there!
+echo Hellothere >> geek.txt
+END
